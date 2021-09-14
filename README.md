@@ -1,3 +1,6 @@
+El proyecto Frontend realizado con React, requiere que este corriendo el proyecto del Backend realizado con .Net Core 3.1.
+para ejecutar este proyecto unicamente es necesario ejecutar la sentencia: npm start.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
